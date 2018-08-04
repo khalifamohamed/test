@@ -17,5 +17,5 @@ In this project, We aim to test the possibility of using blockchain to empower t
 <li>Open a terminal window in your project directory.</li>
 <li>Execute "truffle compile" command to compile the project files.</li>
 <li>Execute "truffle migrate" command to migrate the JS files and the smart contracts.</li>
-<li>Execute "npm start" to start your project.</li>
+<li>Execute "npm start" command to start your project.</li>
 </ul>
