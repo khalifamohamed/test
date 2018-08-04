@@ -1,5 +1,5 @@
 # Using blockchain for Real Estate Business
-In this project, we are trying to prove the ability to use Blockchain Technology to empower the blockchain business 
+In this project, We aim to test the possibility of using blockchain to empower th field of real estate trading. The project is a kind of adhovc attempt. Some easier parts such ass authentication were ignored to give more focus on the business flow itself.
 # Software you're going to need.
 <ul>
 <li>Node JS Version 8.6 or higher</li>
