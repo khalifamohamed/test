@@ -1,6 +1,6 @@
 # Using blockchain for Real Estate Business
 In this project, we are trying to prove the ability to use Blockchain Technology to empower the blockchain business 
-## Software you're going to need.
+# Software you're going to need.
 <ul>
 <li>Node JS Version 8.6 or higher</li>
 <li>Truffle</li>
@@ -9,7 +9,7 @@ In this project, we are trying to prove the ability to use Blockchain Technology
 <li>Ganache</li>
 </ul>
 
-##Installation Steps
+#Installation Steps
 <ul>
 <li>Unpack the project files.</li>
 <li>Open ganache.</li>
