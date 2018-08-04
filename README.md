@@ -9,7 +9,7 @@ In this project, we are trying to prove the ability to use Blockchain Technology
 <li>Ganache</li>
 </ul>
 
-#Installation Steps
+# Installation Steps
 <ul>
 <li>Unpack the project files.</li>
 <li>Open ganache.</li>
