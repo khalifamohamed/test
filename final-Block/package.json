@@ -18,7 +18,7 @@
     "pg-hstore": "^2.3.2",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
-    "sequelize": "^4.33.4",
+    "sequelize": "^5.3.0",
     "truffle-contract": "^3.0.3",
     "web3": "^0.20.4",
     "winston": "^2.4.0"
